@@ -5,29 +5,33 @@ title: Become a Member Organisation
 excerpt: A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries
 ---
 
-A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries. Members receive priority access to [instructor training](https://carpentries.github.io/instructor-training/) and guidance with capacity building at their organisation. With local instructors, Member organisations can readily run low-cost local [workshops]((/workshops/)). Community-developed lessons enable our Instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give The Carpentries revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We also work to give your local instructors support, mentorship, and a forum for community lesson development.
+A Member Organisation is an organisation which has made a commitment to the growth and spread of The Carpentries. Members receive priority access to [Instructor Training](https://carpentries.github.io/instructor-training/) and guidance with capacity building at their organisation. With local Instructors, Member organisations can readily run low-cost local [workshops]((/workshops/)). Community-developed lessons enable our Instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give The Carpentries revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We also work to give your local Instructors support, mentorship, and a forum for community lesson development.
 
 ### Membership Tiers
 
-We offer several levels of Memberships, based on training activities expected annually. Fees listed below are for not-for-profit organisations. We also provide these and Platinum Memberships for for-profit organisations. Please [contact us](mailto:memberships@carpentries.org) for more information.
+We offer several levels of Memberships, based on training activities expected annually. Fees listed below are for not-for-profit organisations. We also provide memberships for for-profit organisations. Please [contact us](mailto:membership@carpentries.org) for more information.
 
 {: .table .table-striped}
 ||Bronze|Silver|Gold|Platinum|
 | ------|:------:|:------:|:------:|:------:|
-|# of Coordinated Workshops|2|4|6|negotiable|
-|Discount for additional <br>coordinated workshops|20%|33%|50%|negotiable|
+|# of Coordinated Workshops|2|4|6|6|
+|Discount for additional <br>coordinated workshops|20%|33%|50%|50%|
 |Self-organized workshops<br> at member organisation **|no-charge|no-charge|no-charge|no-charge|
-|Number of instructors <br>trained ***|0|6 online|15 with possibility <br>for in-person^<br>training event|negotiable|
+|Number of instructors <br>trained ***|0|6 online|15 with possibility <br>for in-person^<br>training event|Varies - see below|
 |Seat on the <br>Carpentries Member Council|Yes|Yes|Yes|Yes|
-|Train an in-house instructor <br>trainer at member org|No|No|No|Available|
-|Lesson development <br>services|No|No|No|Available|
-|Membership Dues (annual)|[$5,000](mailto:memberships@carpentries.org?subject=Interested in Bronze Membership)|[$7,500](mailto:memberships@carpentries.org?subject=Interested in Silver Membership)|[$15,000](mailto:memberships@carpentries.org?subject=Interested in Gold Membership)|[Contact us](mailto:memberships@carpentries.org?subject=Interested in Platinum Membership)|
+|Train an in-house Instructor <br>Trainer at member org|No|No|No|Available|
+|Membership Dues (USD annual)|$5,000|$7,500|$15,000|Varies - see below|
 
 <a href="https://carpentries.typeform.com/to/Hmfe6L">
   <button class="btn">
     Join Now
   </button>
 </a>
+
+#### Platinum Memberships
+
+
+
 
 #### Frequently Asked Questions
 
