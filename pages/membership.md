@@ -28,7 +28,7 @@ We offer several levels of Memberships, based on training activities expected an
   </button>
 </a>
 
-#### Platinum Memberships
+### Platinum Memberships
 
 The Platinum tier is our most customizable membership. The price of a Platinum membership 
 depends on the benefits selected from the options below. Many Platinum member organisations support individuals
@@ -36,25 +36,32 @@ at their institution in carrying out work to further The Carpentries mission in 
 ways. Organisations providing such in-kind services to The Carpentries are eligible
 to receive a discount on their membership price, as detailed below.
 
-<strong>Instructor Training</strong>
-  * Instructor Training is a primary benefit of membership. Seats in Instructor Training are priced according to whether the training is
-  coordinated by The Carpentries or internally by the member organisation. 
-    * online, coordinated by The Carpentries = $1,000 each
-    * online with one in-house Trainer, coordinated by The Carpentries = $750 each \*
-    * online or in-person with in-house Trainers, coordinated by member organisation = $500 each \*
+<strong>Instructor Training</strong>  
 
-\* Only available to member organisations supporting Trainers.
+Instructor Training is a primary benefit of membership. Seats in Instructor Training are priced according to whether the training is
+  coordinated by The Carpentries or internally by the member organisation. 
+  * online, coordinated by The Carpentries = $1,000 each
+  * online with one in-house Instructor Trainer, coordinated by The Carpentries = $750 each \*
+  * online or in-person with in-house Instructor Trainers, coordinated by member organisation = $500 each \*
+
+\* Only available to member organisations supporting Instructor Trainers.
 
 Prices listed above apply to the first 15 seats in online Instructor Training or the first 30 seats in in-house Instructor Training.
 We offer a 10% discount on additional seats, with a maximum total of 50 online seats, or 100 in-house seats.
 
 <strong>Instructor Trainer Training</strong>
-$10,000 
 
-Workshops
-Each Platinum membership includes 6 centrally-organised workshops. Instructor travel fees may apply and are the responsibility of the hosting organisation. 
+Each year we provide training for a small number of qualified individuals to become Instructor Trainers. This training requires a significant time 
+commitment and has limited availability. The cost to support an individual through this training is $10,000. As each active Trainer at a member organisation
+earns a $5,000 discount on the membership price, and can support in-house Instructor Training, an Instructor Trainer Training seat
+generally pays for itself within two years. 
 
-#### Discounts
+<strong>Workshops</strong>
+
+Each Platinum membership includes 6 centrally-organised workshops\* and unlimited self-organised workshops.\*\* 
+
+<strong>Discounts</strong>
+
 For each active Trainer who is supported by a member organisation in fulfilling their duties as laid out in the Trainer agreement (link), a $5,000 discount will be deducted from your membership price. This does not include potential future Trainers who will become Trainers during the membership year. 
 If your organisation supports a Regional Coordinator (link to description), a $10,000 discount will be deducted from your membership price. The typical workload for a Regional Coordinator is 35 centrally-organised workshops per year (not including self-organised workshops). If workshop demand raises above that level, we may bring on a second Regional Coordinator in your region.
 Community Lead
