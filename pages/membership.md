@@ -14,12 +14,12 @@ We offer several levels of Memberships, based on training activities expected an
 {: .table .table-striped}
 ||Bronze|Silver|Gold|Platinum|
 | ------|:------:|:------:|:------:|:------:|
-|# of Coordinated Workshops|2|4|6|6|
+|Number of coordinated workshops|2|4|6|6|
 |Discount for additional <br>coordinated workshops|20%|33%|50%|50%|
-|Self-organized workshops<br> at member organisation **|no-charge|no-charge|no-charge|no-charge|
-|Number of instructors <br>trained ***|0|6 online|15 with possibility <br>for in-person^<br>training event|Varies - see below|
-|Seat on the <br>Carpentries Member Council|Yes|Yes|Yes|Yes|
-|Train an in-house Instructor <br>Trainer at member org|No|No|No|Available|
+|Self-organized workshops**|no-charge|no-charge|no-charge|no-charge|
+|Number of instructors <br>trained***|0|6 online|15 with possibility <br>for in-person^<br>training event|Varies - see below|
+|Train an in-house Instructor Trainer|No|No|No|Available|
+|Seat on Member Council|Yes|Yes|Yes|Yes|
 |Membership Dues (USD annual)|$5,000|$7,500|$15,000|Varies - see below|
 
 <a href="https://carpentries.typeform.com/to/Hmfe6L">
@@ -61,12 +61,14 @@ Each Platinum membership includes 6 centrally-organised workshops\* and unlimite
 <strong>Discounts</strong>
 
 * Instructor Trainers - Organisations supporting Instructor Trainers earn a $5,000 discount on membership per active Instructor Trainer. This discount does not apply to potential future Instructor Trainers who will take part in Instructor Trainer Training during the membership year.
-* Regional Coordinators - Organisations supporting a Regional Coordinator earn a $10,000 discount on membership. The typical workload for a Regional Coordinator is 35 centrally-organised workshops per year (not including self-organised workshops). If workshop demand raises above that level, we may bring on a second Regional Coordinator in your region.
+* Regional Coordinators - Organisations supporting a Regional Coordinator earn a $10,000 discount on membership. The typical workload for a Regional Coordinator is 35 centrally-organised workshops per year (not including self-organised workshops). If workshop demand rises above that level, we may bring on a second Regional Coordinator in your region.
 * Community Leadership - In limited cases, individuals carrying out significant community leadership roles may earn a $10,000 discount on membership for their institution. 
 
 We provide a limited number of scholarships for institutions with financial need and for institutions serving historically underserved populations. 
 If you believe that your institution is eligible for scholarship support, [please send us an email](mailto:memberships@carpentries.org).
 
+Members of our team are on hand to help you in constructing a Platinum membership that best suits your organisation's needs for training and community
+support. To request a meeting with our team, [please send us an email](mailto:memberships@carpentries.org).
 
 ### Frequently Asked Questions
 
